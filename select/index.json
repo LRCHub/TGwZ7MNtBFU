@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Cool (Official Music Video)",
+  "base_artist": "Gwen Stefani",
+  "createdAt": "2026-03-09T15:01:12.512218Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "LL Cool J",
+      "artist": "LL Cool J feat. Kandice Love",
+      "has_synced": true,
+      "path": "select/01_LL_Cool_J_LL_Cool_J_feat._Kandice_Love.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Somewhere Cool With You",
+      "artist": "Adam Doleac",
+      "has_synced": true,
+      "path": "select/02_Somewhere_Cool_With_You_Adam_Doleac.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Life Is Cool",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": false,
+      "path": "select/03_Life_Is_Cool_King_Gizzard_&_The_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Life Is Cool",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": false,
+      "path": "select/04_Life_Is_Cool_King_Gizzard_and_the_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Colorado Cool Aid",
+      "artist": "Johnny Paycheck",
+      "has_synced": true,
+      "path": "select/05_Colorado_Cool_Aid_Johnny_Paycheck.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Colorado Cool-Aid",
+      "artist": "Johnny Paycheck",
+      "has_synced": true,
+      "path": "select/06_Colorado_Cool-Aid_Johnny_Paycheck.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cool Again",
+      "artist": "Kane Brown",
+      "has_synced": true,
+      "path": "select/07_Cool_Again_Kane_Brown.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cool Anymore",
+      "artist": "Jordan Davis feat. Julia Michaels",
+      "has_synced": true,
+      "path": "select/08_Cool_Anymore_Jordan_Davis_feat._Julia_Michaels.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Cool Anymore",
+      "artist": "Jordan Davis",
+      "has_synced": true,
+      "path": "select/09_Cool_Anymore_Jordan_Davis.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cool Drink of Water",
+      "artist": "Brooks & Dunn",
+      "has_synced": true,
+      "path": "select/10_Cool_Drink_of_Water_Brooks_&_Dunn.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Was Country When Country Wasn't Cool (feat. George Jones) [Live At The Roy Acuff Theater Nashville, TN, 1981]",
+      "artist": "Barbara Mandrell",
+      "has_synced": true,
+      "path": "select/11_I_Was_Country_When_Country_Wasn't_Cool_(feat._George_Jones)_[Live_At_The_Roy_Acu_Barbara_Mandrell.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Was Country When Country Wasn't Cool (1981/Live In Nashville)",
+      "artist": "Barbara Mandrell",
+      "has_synced": true,
+      "path": "select/12_I_Was_Country_When_Country_Wasn't_Cool_(1981_Live_In_Nashville)_Barbara_Mandrell.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "It Ain't Cool To Be Crazy About You",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/13_It_Ain't_Cool_To_Be_Crazy_About_You_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "It Ain't Cool To Be Crazy About You (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/14_It_Ain't_Cool_To_Be_Crazy_About_You_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Long Cool Woman In A Black Dress",
+      "artist": "Atlanta",
+      "has_synced": false,
+      "path": "select/15_Long_Cool_Woman_In_A_Black_Dress_Atlanta.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "LL Cool J (feat. Kandice Love)",
+      "artist": "LL Cool J",
+      "has_synced": true,
+      "path": "select/16_LL_Cool_J_(feat._Kandice_Love)_LL_Cool_J.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Stay Cool",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/17_Stay_Cool_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Shades Of Cool",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/18_Shades_Of_Cool_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Ain't Never Been Cool",
+      "artist": "Lucky Soul",
+      "has_synced": true,
+      "path": "select/19_Ain't_Never_Been_Cool_Lucky_Soul.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cool",
+      "artist": "Gwen Stefani",
+      "has_synced": false,
+      "path": "select/pl_01_Cool_Gwen_Stefani.txt"
+    }
+  ]
+}
